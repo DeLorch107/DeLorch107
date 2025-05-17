@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @DeLorch107
-- 👀 I’m interested in ... Me
-- 🌱 I’m currently learning ... Myself 
-- 💞️ I’m looking to collaborate on ... My life
-- 📫 How to reach me ... Call Me
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... I am Me
+DeLorch107
+About Me
+Industrial Management Engineer specializing in Supply Chain Management. I use GitHub as a portfolio to showcase my work and share knowledge in my field. I believe in the collaborative power of learning and teaching simultaneously.
 
-<!---
-DeLorch107/DeLorch107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Interests
+Supply Chain Management & Optimization
+Developing Darija as a recognized language rather than simply a dialect
+Formula 1 racing enthusiast
+Coffee connoisseur
+Purpose
+This repository serves as a central hub for my professional projects, research, and contributions in the field of Industrial Management and Supply Chain. Feel free to explore, learn, and share feedback.
+
+Connect With Me
+📧 Email: ibrahim.elorch@emines.um6p.ma
+💼 LinkedIn: [linkedin.com/in/delorch107](https://www.linkedin.com/in/ibrahim-elorch-6879782ba/)
+"VENI VIDI VICI"
+
+<!-- Always evolving. Check back often for updates on my latest projects. -->
