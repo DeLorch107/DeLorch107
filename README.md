@@ -15,6 +15,5 @@ This repository serves as a central hub for my professional projects, research, 
 ## Connect With Me
 - 📧 Email: [ibrahim.elorch@emines.um6p.ma](mailto:ibrahim.elorch@emines.um6p.ma)
 - 💼 LinkedIn: [linkedin.com/in/ibrahim-elorch](https://www.linkedin.com/in/ibrahim-elorch-6879782ba/)
-- 🐦 Twitter: [@DeLorch107](https://x.com/DeLorch107) 
 
 > *"VENI VIDI VICI"*
