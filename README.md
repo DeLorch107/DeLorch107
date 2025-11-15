@@ -12,4 +12,4 @@ Industrial Management Student, passionate about learning by teaching, problem so
 - Email: [ibrahim.elorch@emines.um6p.ma](mailto:ibrahim.elorch@emines.um6p.ma)
 - LinkedIn: [linkedin.com/in/ibrahim-elorch](https://www.linkedin.com/in/ibrahim-elorch-6879782ba/)
 
-> *"وَقُلِ اعْمَلُوا فَسَيَرَى اللَّهُ عَمَلَكُمْ"*
+> *"Act. Allah will see your actions"*
