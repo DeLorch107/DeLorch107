@@ -4,7 +4,7 @@
 Industrial Management Student, passionate about learning by teaching, problem solving and continous enhancement & improvement. My ultimate goal is to make a change, and improving people's lives.
 
 ## Interests
-- Formula 1 racing enthusiast
+- Formula 1 enthusiast
 - Coffee connoisseur
 - Developing Darija as a formal language rather than simply a dialect
 
